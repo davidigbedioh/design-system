@@ -182,7 +182,7 @@ function Demo() {
             <Card>
               <CardHeader
                 title="Component Gallery"
-                subtitle="A compact, portfolio-ready design system demo."
+                subtitle="A compact design system demo."
                 action={<Badge tone="primary">demo</Badge>}
               />
               <CardBody>
